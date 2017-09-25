@@ -22,3 +22,16 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## Deployment
+
+```shell
+cd ./ror
+ruby bin/rails server
+```
+
+## Else
+
+```shell
+git update-index --assume-unchanged .\ror\config\databse.yml
+```
