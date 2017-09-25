@@ -28,6 +28,8 @@ Things you may want to cover:
 ```shell
 cd ./ror
 ruby bin/rails server
+ruby bin/rails db:migrate
+ruby bin/rails db:seed
 ```
 
 ## Else
